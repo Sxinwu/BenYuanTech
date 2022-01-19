@@ -38,6 +38,6 @@
 
 该文档永久链接：https://blog.qiql.net/SpringBootTorial(1).html
 
-前端由 ==@==[shenxinwu.com](https://shenxinwu.com) 开发，后端由 ==@==[qiql.net](https://qiql.net)  开发
+前端由 [shenxinwu.com](https://shenxinwu.com) 开发，后端由 [qiql.net](https://qiql.net)  开发
 
 欢迎访问本人的个人网站：[qiql.net](https://qiql.net)，本人平时写的一些博客都会放在：[blog.qiql.net](https://blog.qiql.net) 上
